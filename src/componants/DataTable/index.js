@@ -18,7 +18,7 @@ const DataTable = () => {
                         {context.developerState.headings.map(({ name, width }) => {
                             return (
                                 <th
-                                    className="col"
+                                    className='col'
                                     key={name}
                                     style={{ width }}
                                     onClick={() => {
