@@ -26,7 +26,7 @@ const DataTable = () => {
                                     }}
                                 >
                                     {name}
-                                    <span className="pointer"></span>
+                                    <span className='pointer'></span>
                                 </th>
                             );
                         })}
