@@ -1,4 +1,4 @@
 # UserDirectory
-### Deploy @ https://mclarke9k9.github.io/myapp/
+### Deploy @ https://mclarke9k9.github.io/UserDirectory/
 
 ---------------------------
