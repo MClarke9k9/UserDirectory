@@ -6,6 +6,7 @@
 ### Tech Used to Built:
     ReactJS
     CSS
+    Bootstrap
     Javascript
     Axios
     
