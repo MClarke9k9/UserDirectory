@@ -1,4 +1,4 @@
-//---<@
+//----<@
 import React from 'react';
 import Main from './componants/Main/index';
 import Wrapper from './componants/Wrapper/index';
